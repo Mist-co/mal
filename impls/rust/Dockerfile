@@ -1,4 +1,4 @@
-FROM ubuntu:25.04
+FROM ubuntu:26.04
 MAINTAINER Joel Martin <github@martintribe.org>
 
 ##########################################################
